@@ -1,0 +1,34 @@
+E:\Projects Assignment\Blog-Website-.NET-main\Blog-Website-.NET-main\Talktoyeat\Talktoyeat.Core\bin\Debug\net6.0\Talktoyeat.Core.deps.json
+E:\Projects Assignment\Blog-Website-.NET-main\Blog-Website-.NET-main\Talktoyeat\Talktoyeat.Core\bin\Debug\net6.0\Talktoyeat.Core.runtimeconfig.json
+E:\Projects Assignment\Blog-Website-.NET-main\Blog-Website-.NET-main\Talktoyeat\Talktoyeat.Core\bin\Debug\net6.0\Talktoyeat.Core.dll
+E:\Projects Assignment\Blog-Website-.NET-main\Blog-Website-.NET-main\Talktoyeat\Talktoyeat.Core\bin\Debug\net6.0\Talktoyeat.Core.pdb
+E:\Projects Assignment\Blog-Website-.NET-main\Blog-Website-.NET-main\Talktoyeat\Talktoyeat.Core\bin\Debug\net6.0\Talktoyeat.Domain.dll
+E:\Projects Assignment\Blog-Website-.NET-main\Blog-Website-.NET-main\Talktoyeat\Talktoyeat.Core\bin\Debug\net6.0\Talktoyeat.Domain.pdb
+E:\Projects Assignment\Blog-Website-.NET-main\Blog-Website-.NET-main\Talktoyeat\Talktoyeat.Core\obj\Debug\net6.0\Talktoyeat.Core.csproj.AssemblyReference.cache
+E:\Projects Assignment\Blog-Website-.NET-main\Blog-Website-.NET-main\Talktoyeat\Talktoyeat.Core\obj\Debug\net6.0\Talktoyeat.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects Assignment\Blog-Website-.NET-main\Blog-Website-.NET-main\Talktoyeat\Talktoyeat.Core\obj\Debug\net6.0\Talktoyeat.Core.AssemblyInfoInputs.cache
+E:\Projects Assignment\Blog-Website-.NET-main\Blog-Website-.NET-main\Talktoyeat\Talktoyeat.Core\obj\Debug\net6.0\Talktoyeat.Core.AssemblyInfo.cs
+E:\Projects Assignment\Blog-Website-.NET-main\Blog-Website-.NET-main\Talktoyeat\Talktoyeat.Core\obj\Debug\net6.0\Talktoyeat.Core.csproj.CoreCompileInputs.cache
+E:\Projects Assignment\Blog-Website-.NET-main\Blog-Website-.NET-main\Talktoyeat\Talktoyeat.Core\obj\Debug\net6.0\Talktoyeat.Core.csproj.CopyComplete
+E:\Projects Assignment\Blog-Website-.NET-main\Blog-Website-.NET-main\Talktoyeat\Talktoyeat.Core\obj\Debug\net6.0\Talktoyeat.Core.dll
+E:\Projects Assignment\Blog-Website-.NET-main\Blog-Website-.NET-main\Talktoyeat\Talktoyeat.Core\obj\Debug\net6.0\refint\Talktoyeat.Core.dll
+E:\Projects Assignment\Blog-Website-.NET-main\Blog-Website-.NET-main\Talktoyeat\Talktoyeat.Core\obj\Debug\net6.0\Talktoyeat.Core.pdb
+E:\Projects Assignment\Blog-Website-.NET-main\Blog-Website-.NET-main\Talktoyeat\Talktoyeat.Core\obj\Debug\net6.0\Talktoyeat.Core.genruntimeconfig.cache
+E:\Projects Assignment\Blog-Website-.NET-main\Blog-Website-.NET-main\Talktoyeat\Talktoyeat.Core\obj\Debug\net6.0\ref\Talktoyeat.Core.dll
+E:\Blog-Website-.NET-main\Talktoyeat\Talktoyeat.Core\bin\Debug\net6.0\Talktoyeat.Core.deps.json
+E:\Blog-Website-.NET-main\Talktoyeat\Talktoyeat.Core\bin\Debug\net6.0\Talktoyeat.Core.runtimeconfig.json
+E:\Blog-Website-.NET-main\Talktoyeat\Talktoyeat.Core\bin\Debug\net6.0\Talktoyeat.Core.dll
+E:\Blog-Website-.NET-main\Talktoyeat\Talktoyeat.Core\bin\Debug\net6.0\Talktoyeat.Core.pdb
+E:\Blog-Website-.NET-main\Talktoyeat\Talktoyeat.Core\bin\Debug\net6.0\Talktoyeat.Domain.dll
+E:\Blog-Website-.NET-main\Talktoyeat\Talktoyeat.Core\bin\Debug\net6.0\Talktoyeat.Domain.pdb
+E:\Blog-Website-.NET-main\Talktoyeat\Talktoyeat.Core\obj\Debug\net6.0\Talktoyeat.Core.csproj.AssemblyReference.cache
+E:\Blog-Website-.NET-main\Talktoyeat\Talktoyeat.Core\obj\Debug\net6.0\Talktoyeat.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\Blog-Website-.NET-main\Talktoyeat\Talktoyeat.Core\obj\Debug\net6.0\Talktoyeat.Core.AssemblyInfoInputs.cache
+E:\Blog-Website-.NET-main\Talktoyeat\Talktoyeat.Core\obj\Debug\net6.0\Talktoyeat.Core.AssemblyInfo.cs
+E:\Blog-Website-.NET-main\Talktoyeat\Talktoyeat.Core\obj\Debug\net6.0\Talktoyeat.Core.csproj.CoreCompileInputs.cache
+E:\Blog-Website-.NET-main\Talktoyeat\Talktoyeat.Core\obj\Debug\net6.0\Talktoyeat.Core.csproj.CopyComplete
+E:\Blog-Website-.NET-main\Talktoyeat\Talktoyeat.Core\obj\Debug\net6.0\Talktoyeat.Core.dll
+E:\Blog-Website-.NET-main\Talktoyeat\Talktoyeat.Core\obj\Debug\net6.0\refint\Talktoyeat.Core.dll
+E:\Blog-Website-.NET-main\Talktoyeat\Talktoyeat.Core\obj\Debug\net6.0\Talktoyeat.Core.pdb
+E:\Blog-Website-.NET-main\Talktoyeat\Talktoyeat.Core\obj\Debug\net6.0\Talktoyeat.Core.genruntimeconfig.cache
+E:\Blog-Website-.NET-main\Talktoyeat\Talktoyeat.Core\obj\Debug\net6.0\ref\Talktoyeat.Core.dll
