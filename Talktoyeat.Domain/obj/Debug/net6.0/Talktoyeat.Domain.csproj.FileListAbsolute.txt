@@ -1,0 +1,22 @@
+E:\Projects Assignment\Blog-Website-.NET-main\Blog-Website-.NET-main\Talktoyeat\Talktoyeat.Domain\bin\Debug\net6.0\Talktoyeat.Domain.deps.json
+E:\Projects Assignment\Blog-Website-.NET-main\Blog-Website-.NET-main\Talktoyeat\Talktoyeat.Domain\bin\Debug\net6.0\Talktoyeat.Domain.dll
+E:\Projects Assignment\Blog-Website-.NET-main\Blog-Website-.NET-main\Talktoyeat\Talktoyeat.Domain\bin\Debug\net6.0\Talktoyeat.Domain.pdb
+E:\Projects Assignment\Blog-Website-.NET-main\Blog-Website-.NET-main\Talktoyeat\Talktoyeat.Domain\obj\Debug\net6.0\Talktoyeat.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects Assignment\Blog-Website-.NET-main\Blog-Website-.NET-main\Talktoyeat\Talktoyeat.Domain\obj\Debug\net6.0\Talktoyeat.Domain.AssemblyInfoInputs.cache
+E:\Projects Assignment\Blog-Website-.NET-main\Blog-Website-.NET-main\Talktoyeat\Talktoyeat.Domain\obj\Debug\net6.0\Talktoyeat.Domain.AssemblyInfo.cs
+E:\Projects Assignment\Blog-Website-.NET-main\Blog-Website-.NET-main\Talktoyeat\Talktoyeat.Domain\obj\Debug\net6.0\Talktoyeat.Domain.csproj.CoreCompileInputs.cache
+E:\Projects Assignment\Blog-Website-.NET-main\Blog-Website-.NET-main\Talktoyeat\Talktoyeat.Domain\obj\Debug\net6.0\Talktoyeat.Domain.dll
+E:\Projects Assignment\Blog-Website-.NET-main\Blog-Website-.NET-main\Talktoyeat\Talktoyeat.Domain\obj\Debug\net6.0\refint\Talktoyeat.Domain.dll
+E:\Projects Assignment\Blog-Website-.NET-main\Blog-Website-.NET-main\Talktoyeat\Talktoyeat.Domain\obj\Debug\net6.0\Talktoyeat.Domain.pdb
+E:\Projects Assignment\Blog-Website-.NET-main\Blog-Website-.NET-main\Talktoyeat\Talktoyeat.Domain\obj\Debug\net6.0\ref\Talktoyeat.Domain.dll
+E:\Blog-Website-.NET-main\Talktoyeat\Talktoyeat.Domain\bin\Debug\net6.0\Talktoyeat.Domain.deps.json
+E:\Blog-Website-.NET-main\Talktoyeat\Talktoyeat.Domain\bin\Debug\net6.0\Talktoyeat.Domain.dll
+E:\Blog-Website-.NET-main\Talktoyeat\Talktoyeat.Domain\bin\Debug\net6.0\Talktoyeat.Domain.pdb
+E:\Blog-Website-.NET-main\Talktoyeat\Talktoyeat.Domain\obj\Debug\net6.0\Talktoyeat.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Blog-Website-.NET-main\Talktoyeat\Talktoyeat.Domain\obj\Debug\net6.0\Talktoyeat.Domain.AssemblyInfoInputs.cache
+E:\Blog-Website-.NET-main\Talktoyeat\Talktoyeat.Domain\obj\Debug\net6.0\Talktoyeat.Domain.AssemblyInfo.cs
+E:\Blog-Website-.NET-main\Talktoyeat\Talktoyeat.Domain\obj\Debug\net6.0\Talktoyeat.Domain.csproj.CoreCompileInputs.cache
+E:\Blog-Website-.NET-main\Talktoyeat\Talktoyeat.Domain\obj\Debug\net6.0\Talktoyeat.Domain.dll
+E:\Blog-Website-.NET-main\Talktoyeat\Talktoyeat.Domain\obj\Debug\net6.0\refint\Talktoyeat.Domain.dll
+E:\Blog-Website-.NET-main\Talktoyeat\Talktoyeat.Domain\obj\Debug\net6.0\Talktoyeat.Domain.pdb
+E:\Blog-Website-.NET-main\Talktoyeat\Talktoyeat.Domain\obj\Debug\net6.0\ref\Talktoyeat.Domain.dll
